@@ -28,12 +28,11 @@ Check out my repos to explore more!
 ##  How to Reach Me
 
 - Twitter: [@0xsmit49](https://twitter.com/0xsmit49)  
-- LinkedIn: [Smit Bafna](https://linkedin.com/in/smit-bafna)  
 - Email: smitbafna49@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 When I'm not coding, I’m usually diving deep into cryptography research or exploring new Web3 protocols and tooling.
 
