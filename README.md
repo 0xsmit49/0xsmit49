@@ -15,10 +15,10 @@ I'm **Smit Bafna**, a passionate Web3 developer and blockchain enthusiast dedica
 
 ##  Projects & Highlights
 
-- **ZK-Match** — A privacy-first matchmaking platform for genetic data sharing with zk-proofs  
-- **Lost & Found on Sui** — A zk-powered decentralized app to securely recover lost documents  
-- **DeFi Assistant** — AI-driven assistant integrating DEX APIs to simplify crypto trading  
-- **PolkaGuard CLI** — A Rust-based Solidity security analysis tool for PolkaVM  
+- [ZeniBot](https://github.com/0xsmit49/ZeniBot) — AI DeFi assistant integrating DEX APIs for smarter trading  
+- [I-CaliLottery](https://github.com/0xsmit49/I-CaliLottery) — Anonymous lottery on ICP, enhancing user privacy and fairness  
+- [ZK-Match](https://github.com/0xsmit49/zk-match) — A privacy-first matchmaking platform for genetic data sharing with zk-proofs
+
 - Multiple hackathon winners and contributors in the Sui and Neon EVM ecosystems
 
 Check out my repos to explore more! 
