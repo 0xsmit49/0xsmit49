@@ -4,7 +4,7 @@ I'm **Smit Bafna**, a passionate Web3 developer and blockchain enthusiast dedica
 
 ---
 
-## 🔭 What I’m Working On
+##  What I’m Working On
 
 - Building **privacy-preserving solutions** using zero-knowledge proofs and cryptography  
 - Developing **scalable dApps and DeFi protocols** on Sui and Ethereum-compatible chains  
